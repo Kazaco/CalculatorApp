@@ -1,4 +1,6 @@
-1. ) For this assignment you will create a calculator application. The calculator should have the standard layout and support the following operations:
+
+== More Info based on Pre-Reqs ==
+1. ) The calculator should have the standard layout and support the following operations:
 -- Addition
 -- Subtraction
 -- Multiplication
